@@ -62,18 +62,6 @@ Includes optional modes such as:
 
 ## Media / Links
 
-My TikTok:
-https://www.tiktok.com/@dylteam.vr6
-
-Discord:
-comming soon
-
-Demo Video:
-
-
-
-## External Systems
-
 - [TikTok] (https://www.tiktok.com/@dylteam.vr6)
 - [Discord] coming soon
 - [Demo Video] (https://www.tiktok.com/@dylteam.vr6/video/7631724759608331543)
