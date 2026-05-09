@@ -1,6 +1,6 @@
 # GLORIOUS INSPIRA JR
 
-GLORIOUS INSPIRA JR is an experimental autonomous VRChat AI built to explore virtual spaces, react to players, and learn from interaction in real time.
+GLORIOUS INSPIRA JR is a VRChat AI Bot built to explore virtual spaces, react to players, and learn from interaction in real time.
 
 Created and developed by **Dylteam**.
 
@@ -48,16 +48,6 @@ Includes optional modes such as:
 - Prank Mode
 - Stand Still Mode
 
-## Controls
-
-- F4 — Emotional Mode
-- F5 — Chaos Mode
-- F6 — Follow Mode
-- F7 — Prank Mode
-- F8 — Stand Still
-- F9 — Start Bot
-- F11 — Stop Bot
-- F12 — Clear greeted players
 ---------------------------------------------------------------
 
 ## Media / Links
